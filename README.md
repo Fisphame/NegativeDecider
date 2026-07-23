@@ -1,7 +1,8 @@
 # NegativeDecider
 
-[![NuGet Version](https://img.shields.io/nuget/v/NegativeDecider)](https://www.nuget.org/packages/NegativeDecider/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+NuGet Version: https://www.nuget.org/packages/NegativeDecider/
+
+License: MIT https://opensource.org/licenses/MIT
 
 ---
 
